@@ -8,8 +8,9 @@ The following circuits are included:
 - Buck Converter
 - Boost Converter
 - Buck Boost Converter
-- Three phase Voltage Source Inverter
+- Three-phase Voltage Source Inverter
 - AC voltage Controller
+- Control of DC Motor via H-Bridge circuit
 
 
 
